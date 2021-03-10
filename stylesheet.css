@@ -52,6 +52,7 @@ a {
 
 .signup {
   background-color: #239b76;
+  margin-right: 10px;
   display: flex;
   flex-wrap: wrap;
   flex: auto;
