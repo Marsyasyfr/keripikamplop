@@ -52,16 +52,12 @@ a {
 
 .signup {
   background-color: #239b76;
-  margin-right: 10px;
-  display: flex;
-  flex-wrap: wrap;
-  flex: auto;
-  width: 100%
+  margin-bottom: 15px;
 }
 
 .shopee {
   background-color: #FFA07A;
-  margin-right: 10px;
+  margin-bottom: 15px;
 }
 
 .whatsapp {
