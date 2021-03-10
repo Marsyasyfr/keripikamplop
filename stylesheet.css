@@ -50,9 +50,10 @@ a {
   margin: 10px 0;
 }
 
-.signup {
+.instagram {
   background-color: #239b76;
   margin-bottom: 15px;
+  margin-top: 20px;
 }
 
 .shopee {
@@ -167,7 +168,7 @@ header {
   color: #b3aeb5;
 }
 
-.heading h3 {
+.heading h2 {
   font-weight: normal;
 }
 
@@ -179,9 +180,9 @@ header {
 
 .message {
   padding: 15px 40px;
-  background-color: #5dca88;
+  background-color: #D2B48C;
   cursor: pointer;
-  box-shadow: 0 7px #1a7940;
+  box-shadow: 0 7px #CD853F;
 }
 
 .message:active {
