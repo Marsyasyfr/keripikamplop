@@ -52,6 +52,10 @@ a {
 
 .signup {
   background-color: #239b76;
+  display: flex;
+  flex-wrap: wrap;
+  flex: auto;
+  width: 100%
 }
 
 .shopee {
