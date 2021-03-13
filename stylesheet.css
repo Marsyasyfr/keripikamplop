@@ -145,7 +145,7 @@ header {
 }
 
 .lesson {
-  float: left;
+  float: center;
   width: 33%;
 }
 
