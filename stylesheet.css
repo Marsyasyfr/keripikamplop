@@ -92,7 +92,7 @@ header {
 }
 
 .logo {
-  width: 85px;
+  width: 70px;
   margin-top: 1px;
 }
 
@@ -145,7 +145,7 @@ header {
 }
 
 .lesson {
-  float: center;
+  float: left;
   width: 33%;
 }
 
